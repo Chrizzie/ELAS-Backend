@@ -111,4 +111,10 @@ Step 9:- Run the project either from a terminal or command prompt or powershell:
 $ flask run
 ```
 
+or
+
+```
+$  python -m flask run
+```
+
 Web server should start running at localhost:5000.
