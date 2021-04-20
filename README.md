@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Project Info](#project-info)
-* [General info](#general-info)
 * [Project structure](#project-structure)
 * [Technologies](#technologies)
 * [Additional applications](#Additional-applications)
